@@ -23,7 +23,8 @@ Once set up, you can disconnect it from the outside world entirely: your data st
 
 Limitations
 
-Only Jellyfin and Immich are included. To add more apps, you need EgoBuilder
+Only Jellyfin and Immich are included. To add more apps, you need EgoBuilder.
+
 While offline, features that depend on online services are unavailable. This mainly affects Jellyfin: no automatic download of metadata, posters or subtitles
 Without internet, it receives no updates. To install them, reconnect it temporarily
 
